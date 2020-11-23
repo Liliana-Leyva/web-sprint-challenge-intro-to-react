@@ -1,0 +1,19 @@
+## Interview Questions
+
+Be prepared to demonstrate your understanding of this week's concepts by answering 
+questions on the following topics. You might prepare by writing down your own answers before hand.
+
+1. What is React JS and what problems does it solve? Support your answer with concepts 
+introduced in class and from your personal research on the web.
+React is an open source JS library used in web development to build user interfaces, 
+it uses the virtual DOM to render the state to the actual DOM. 
+
+1. Describe component state.
+It is used to store information about the component that can change when using events or system, when the state changes,
+the component responds by re-rendering.
+
+1. Describe props.
+Is a way to pass data from a component to a component as a parameter. Are arguments passed into React components.
+
+1. What are side effects, and how do you sync effects in a React component to changes of certain state or props?
+Side effects are anything that affects something outside the scope of a function that is being executed. 
